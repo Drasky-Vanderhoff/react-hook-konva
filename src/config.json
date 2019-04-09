@@ -1,0 +1,23 @@
+{
+  "stageConfiguration": {
+    "width": 900,
+    "height": 600,
+    "color": "green"
+  },
+  "layerConfiguration": {
+  },
+  "pointConfiguration": {
+    "stroke": "red",
+    "radius": 5.5,
+    "cursor": "pointer"
+  },
+  "parallelogramConfiguration": {
+    "stroke": "blue"
+  },
+  "circleConfiguration": {
+    "stroke": "yellow"
+  },
+  "textConfiguration": {
+    "stroke": "blue"
+  }
+}
